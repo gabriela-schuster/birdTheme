@@ -1,0 +1,33 @@
+{
+	"name": "bird",
+	"displayName": "bird",
+	"publisher": "indigo",
+	"description": "a dark, easy on the eyes, brown and blue theme",
+	"icon": "bird200.png",
+	"version": "3.0.0",
+	"engines": {
+			"vscode": "^1.56.0"
+	},
+	"categories": [
+			"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gabriela-tomazzi/birdTheme"
+	},
+	"keywords": [
+		"easy",
+		"eyes",
+		"blue",
+		"brown"
+	],
+	"contributes": {
+			"themes": [
+					{
+						"label": "bird",
+						"uiTheme": "vs-dark",
+						"path": "./themes/bird-color-theme.json"
+					}
+			]
+	}
+}
