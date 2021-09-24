@@ -4,7 +4,7 @@
 	"publisher": "indigo",
 	"description": "a dark, easy on the eyes, brown and blue theme",
 	"icon": "birdLogo.png",
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"engines": {
 			"vscode": "^1.56.0"
 	},

@@ -4,6 +4,10 @@ All notable changes to the "bird" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [4.0.0]
 
-- Initial release
+- Changed Scheme to a more dimmed one
+
+## [4.1.0]
+
+- More contrast in buttons and inputs, added borders
