@@ -1,6 +1,5 @@
-# Dark, Brown and blue
+# Dark and easy
 
 ### A organic color theme for your eyes
 
-![Photo of syntax highlighting in a tsx file](./tsx.png)
-![Photo of syntax highlighting in a scss and html file](./web.png)
+![Photo of syntax highlighting in a python file](./py.png)
